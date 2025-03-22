@@ -9,7 +9,7 @@
 
 <strong>4)</strong>  Run `certbot certonly -d ```<Your Domain>``` then do 1 and put your email
 
-<strong>5)</strong>  Run `nano /etc/nginx/sites-enabled/nero.conf`
+<strong>5)</strong>  Run `nano /etc/nginx/sites-enabled/ship.conf`
 
 <strong>6)</strong> Paste the configuration at the bottom of this and replace ```<domain>``` with the domain you want it to run on and ```<port>``` with the port it is already running on. By default that is 3000.
 
